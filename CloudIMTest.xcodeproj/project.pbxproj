@@ -15,7 +15,6 @@
 		E01EADD41C2CEDB80033BF03 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E01EADD21C2CEDB80033BF03 /* LaunchScreen.storyboard */; };
 		E01EADDC1C2CF6C40033BF03 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = E01EADDB1C2CF6C40033BF03 /* Podfile */; };
 		E0268F9D1C72D20A00731162 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0268F9C1C72D20A00731162 /* LoginViewController.swift */; };
-		E04561801C90B11D0064FB6C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E045617F1C90B11D0064FB6C /* Default-568h@2x.png */; };
 		E058D5B91C73AB3500FC26E0 /* RoundImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E058D5B81C73AB3500FC26E0 /* RoundImageView.swift */; };
 		E058D5BC1C73B8AF00FC26E0 /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E058D5BA1C73B8AF00FC26E0 /* Login.storyboard */; };
 		E058D5BE1C73BB5400FC26E0 /* RegisterTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E058D5BD1C73BB5400FC26E0 /* RegisterTableViewController.swift */; };
@@ -43,7 +42,6 @@
 		E01EADD51C2CEDB80033BF03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E01EADDB1C2CF6C40033BF03 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E0268F9C1C72D20A00731162 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		E045617F1C90B11D0064FB6C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		E058D5B81C73AB3500FC26E0 /* RoundImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundImageView.swift; sourceTree = "<group>"; };
 		E058D5BB1C73B8AF00FC26E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Login.storyboard; sourceTree = "<group>"; };
 		E058D5BD1C73BB5400FC26E0 /* RegisterTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterTableViewController.swift; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 		E01EADBD1C2CEDB70033BF03 = {
 			isa = PBXGroup;
 			children = (
-				E045617F1C90B11D0064FB6C /* Default-568h@2x.png */,
 				E01EADDB1C2CF6C40033BF03 /* Podfile */,
 				E01EADC81C2CEDB80033BF03 /* CloudIMTest */,
 				E01EADC71C2CEDB80033BF03 /* Products */,
@@ -208,7 +205,6 @@
 				E01EADD41C2CEDB80033BF03 /* LaunchScreen.storyboard in Resources */,
 				E01EADDC1C2CF6C40033BF03 /* Podfile in Resources */,
 				E0C8AF421C2E4E2F00FA3FE3 /* about.storyboard in Resources */,
-				E04561801C90B11D0064FB6C /* Default-568h@2x.png in Resources */,
 				E0C8AF361C2E117E00FA3FE3 /* Assets.xcassets in Resources */,
 				E01EADCF1C2CEDB80033BF03 /* Main.storyboard in Resources */,
 				E0C8AF3F1C2E4E1800FA3FE3 /* serve.storyboard in Resources */,
