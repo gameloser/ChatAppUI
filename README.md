@@ -1,5 +1,6 @@
 # ChatAppUI
-![Alt text](/login_ui.png?raw=true "Optional Title")
+![Alt text](/login_ui.png?raw=true "Login")
+![Alt text](/sign-up_ui.png?raw=true "Sign-up")
 
 ##Synopsis
 This program is a user interface of chat applications.  
