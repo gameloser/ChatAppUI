@@ -5,7 +5,7 @@
 ##Synopsis
 This program is a user interface of chat applications.  
 It implements user sign-up and login process.  
-It implements basic chat between user and an AI.
+It implements basic chat between user and an AI.  
 The data is stored in a 3rd party online cloud storage system.  
 
 ##Tests
